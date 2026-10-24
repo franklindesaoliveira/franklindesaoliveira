@@ -1,6 +1,6 @@
 # 💻 Olá, eu sou o Franklin
 
-Sou um estudante caracterizado por uma curiosidade notável, que me induz a abrir meu repertório acadêmico em diversas áreas da tecnologia da informação. Além disso, paralelamente à faculdade, negócios novas certificações, conhecimentos e materiais que vão me auxiliar em toda a minha jornada estudantil, fazendo com que considere parte do meu aprendiz funções gráficas a uma abordagem autodidata — seu propósito, principemente, é um processo de formação e capacitação de qualidade para me tornar um profissional que atende às demandas do mercado.
+Sou um estudante caracterizado por uma curiosidade notável, que me induz a expandir meu repertório acadêmico em diversas áreas da Tecnologia da Informação. Em conjunto com a faculdade, ônibus novas certificações, conhecimentos e materiais que me auxiliem em minha jornada estudantil, de modo que grande parte do meu aprendiz se desenvolva através de uma abordagem autodidata, vendo principalmente uma formação acadêmica de qualidade, além do desenvolvimento de habilidades alinhadas às demandas do mercado.
 
 ---
 
@@ -13,7 +13,7 @@ Sou um estudante caracterizado por uma curiosidade notável, que me induz a abri
 
 ## 🛠️ Principais Habilidades em Desenvolvimento
 
-*As habilidades cidadãs a seguir representam como áreas de estudo às quais dedicado parte da minha rotina de estudos e uma maior atenção.*
+*Como competições a seguir alinham-se às áreas da Tecnologia da Informação que estão minha rotina diária de estudos e desenvolvimento contínuo.*
 
 ### 🌐 Desenvolvimento Web
 - **HTML**
@@ -28,7 +28,11 @@ Sou um estudante caracterizado por uma curiosidade notável, que me induz a abri
 
 ### 🖥️ Sistemas Operacionais
 - **Windows**
-- **Linux** *(especificamente Debian)*
+- **Linux**
+  - └─ **Debian**
+
+### 📝 Editores de Código e IDEs
+- **Código VS**
 
 ---
 
