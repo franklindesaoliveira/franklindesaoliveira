@@ -11,7 +11,7 @@ Sou um estudante caracterizado por uma curiosidade notável, que me induz a expa
 
 ## 🛠️ Principais Habilidades em Desenvolvimento
 
-*As competências a seguir alinham-se às áreas da Tecnologia da Informação que estruturam minha rotina diária de estudos e desenvolvimento contínuo.*
+*As competências a seguir alinham-se às áreas da TI que direcionam minha preparação e progresso acadêmico.*
 
 ### 🌐 Desenvolvimento Web
 - **HTML**
