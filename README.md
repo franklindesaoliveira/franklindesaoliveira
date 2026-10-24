@@ -1,8 +1,6 @@
 # 💻 Olá, eu sou o Franklin
 
-Sou um estudante caracterizado por uma curiosidade notável, que me induz a expandir meu repertório acadêmico em diversas áreas da Tecnologia da Informação. Em conjunto com a faculdade, ônibus novas certificações, conhecimentos e materiais que me auxiliem em minha jornada estudantil, de modo que grande parte do meu aprendiz se desenvolva através de uma abordagem autodidata, vendo principalmente uma formação acadêmica de qualidade, além do desenvolvimento de habilidades alinhadas às demandas do mercado.
-
----
+Sou um estudante caracterizado por uma curiosidade notável, que me induz a expandir meu repertório acadêmico em diversas áreas da Tecnologia da Informação. Em conjunto com a faculdade, busco novas certificações, conhecimentos e materiais que me auxiliem em minha jornada estudantil, de modo que grande parte do meu aprendizado se desenvolva através de uma abordagem autodidata, visando principalmente uma formação acadêmica de qualidade, além do desenvolvimento de habilidades alinhadas às demandas do mercado.
 
 ## 🎓 Formação Acadêmica
 
@@ -13,7 +11,7 @@ Sou um estudante caracterizado por uma curiosidade notável, que me induz a expa
 
 ## 🛠️ Principais Habilidades em Desenvolvimento
 
-*Como competições a seguir alinham-se às áreas da Tecnologia da Informação que estão minha rotina diária de estudos e desenvolvimento contínuo.*
+*As competências a seguir alinham-se às áreas da Tecnologia da Informação que estruturam minha rotina diária de estudos e desenvolvimento contínuo.*
 
 ### 🌐 Desenvolvimento Web
 - **HTML**
@@ -31,12 +29,12 @@ Sou um estudante caracterizado por uma curiosidade notável, que me induz a expa
 - **Linux**
   - └─ **Debian**
 
-### 📝 Editores de Código e IDEs
-- **Código VS**
+### 📝 Editores de Código & IDEs
+- **VS Code**
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,7 +44,7 @@ Sou um estudante caracterizado por uma curiosidade notável, que me induz a expa
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Código VS](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
